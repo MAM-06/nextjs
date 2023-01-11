@@ -18,7 +18,7 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             Information System;
-            <code className={styles.code}>pages/index.js</code>
+            <code className={styles.code}>UIN Sunan Ampel</code>
           </p>
           <div>
             <a
@@ -26,9 +26,9 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              By{' '}
+              Template By{' '}
               <Image
-                src="/mam.png"
+                src="/vercel.svg"
                 alt="MAM"
                 className={styles.vercelLogo}
                 width={100}
@@ -50,7 +50,7 @@ export default function Home() {
           />
           <div className={styles.thirteen}>
             <Image
-              src="/mam.png"
+              src="/thirteen.svg"
               alt="13"
               width={40}
               height={31}
